@@ -1,1 +1,1 @@
-# ero-manga-site-history-db
+用于记录工口漫画浏览记录的本地数据库
